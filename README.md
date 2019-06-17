@@ -1,5 +1,7 @@
-# CHAMPS_predicting_molecular_properties_Kaggle
-Ongoing Kaggle competition ending August 28,2019.
+# Predicitng Molecular Properties
+Ongoing Kaggle [competition](https://www.kaggle.com/c/champs-scalar-coupling) ending August 28,2019.(champs.png)
+[Public LB](https://www.kaggle.com/c/champs-scalar-coupling/leaderboard): **Score: -1.054  (56/949)** (Updated: 6/16/2019)
+
 
 Think you can use your data science smarts to make big predictions at a molecular level?
 
