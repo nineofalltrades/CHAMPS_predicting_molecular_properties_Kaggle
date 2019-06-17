@@ -1,6 +1,6 @@
 Ongoing Kaggle [competition](https://www.kaggle.com/c/champs-scalar-coupling) ending August 28,2019.
 
-[Public LB Score:](https://www.kaggle.com/c/champs-scalar-coupling/leaderboard)** -1.054 (56/949)** (Updated: 6/16/2019)
+[Public LB Score:](https://www.kaggle.com/c/champs-scalar-coupling/leaderboard) **-1.054 (56/949)** (Updated: 6/16/2019)
 
 ![title](champs.png)
 # Predicitng Molecular Properties
